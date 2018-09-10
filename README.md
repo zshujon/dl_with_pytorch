@@ -1,2 +1,1 @@
-# dl_with_pytorch
-Deep Learning with Pytorch
+# Deep Learning with Pytorch
